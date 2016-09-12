@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="EMTASS2_1">
+</Property><Property Name="解决方案文件" Value="E:\一体柜\EMTASS2.1\EMTASS2_1.sln">
+</Property><Property Name="用户选项文件" Value="E:\一体柜\EMTASS2.1\EMTASS2_1.suo">
+</Property><Property Name="Date" Value="2016年7月1日">
+</Property><Property Name="Time" Value="15:16">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="EMTASS2_1.sln" Description="文件已成功备份为 E:\一体柜\EMTASS2.1\Backup\EMTASS2_1.sln">
+</Event><Event ErrorLevel="0" Project="" Source="EMTASS2_1.suo" Description="文件已成功备份为 E:\一体柜\EMTASS2.1\Backup\EMTASS2_1.suo">
+</Event><Event ErrorLevel="0" Project="EMTASS_ClientDemo" Source="SocketClientDemo\EMTASS_ClientDemo.csproj" Description="项目文件已成功备份为 E:\一体柜\EMTASS2.1\Backup\SocketClientDemo\EMTASS_ClientDemo.csproj">
+</Event><Event ErrorLevel="0" Project="EMTASS_ClientDemo" Source="SocketClientDemo\ClientDemoForm.cs" Description="文件已成功备份为 E:\一体柜\EMTASS2.1\Backup\SocketClientDemo\ClientDemoForm.cs">
+</Event><Event ErrorLevel="0" Project="EMTASS_ClientDemo" Source="SocketClientDemo\ClientDemoForm.Designer.cs" Description="文件已成功备份为 E:\一体柜\EMTASS2.1\Backup\SocketClientDemo\ClientDemoForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="EMTASS_ClientDemo" Source="SocketClientDemo\Program.cs" Description="文件已成功备份为 E:\一体柜\EMTASS2.1\Backup\SocketClientDemo\Program.cs">
+</Event><Event ErrorLevel="0" Project="EMTASS_ClientDemo" Source="SocketClientDemo\Properties\AssemblyInfo.cs" Description="文件已成功备份为 E:\一体柜\EMTASS2.1\Backup\SocketClientDemo\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="EMTASS_ClientDemo" Source="SocketClientDemo\Properties\Resources.Designer.cs" Description="文件已成功备份为 E:\一体柜\EMTASS2.1\Backup\SocketClientDemo\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="EMTASS_ClientDemo" Source="SocketClientDemo\Properties\Settings.Designer.cs" Description="文件已成功备份为 E:\一体柜\EMTASS2.1\Backup\SocketClientDemo\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="EMTASS_ClientDemo" Source="SocketClientDemo\Properties\Settings.settings" Description="文件已成功备份为 E:\一体柜\EMTASS2.1\Backup\SocketClientDemo\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="EMTASS_ClientDemo" Source="SocketClientDemo\ClientDemoForm.resx" Description="文件已成功备份为 E:\一体柜\EMTASS2.1\Backup\SocketClientDemo\ClientDemoForm.resx">
+</Event><Event ErrorLevel="0" Project="EMTASS_ClientDemo" Source="SocketClientDemo\Properties\Resources.resx" Description="文件已成功备份为 E:\一体柜\EMTASS2.1\Backup\SocketClientDemo\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="EMTASS_ClientDemo" Source="SocketClientDemo\EMTASS_ClientDemo.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="EMTASS_ClientDemo" Source="SocketClientDemo\EMTASS_ClientDemo.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="EMTASS_ServerDemo" Source="SocketServerDemo\EMTASS_ServerDemo.csproj" Description="项目文件已成功备份为 E:\一体柜\EMTASS2.1\Backup\SocketServerDemo\EMTASS_ServerDemo.csproj">
+</Event><Event ErrorLevel="0" Project="EMTASS_ServerDemo" Source="SocketServerDemo\EMTASS_ServerDemo.csproj.user" Description="项目用户文件成功备份为 E:\一体柜\EMTASS2.1\Backup\SocketServerDemo\EMTASS_ServerDemo.csproj.user">
+</Event><Event ErrorLevel="0" Project="EMTASS_ServerDemo" Source="SocketServerDemo\ServerDemoForm.cs" Description="文件已成功备份为 E:\一体柜\EMTASS2.1\Backup\SocketServerDemo\ServerDemoForm.cs">
+</Event><Event ErrorLevel="0" Project="EMTASS_ServerDemo" Source="SocketServerDemo\ServerDemoForm.Designer.cs" Description="文件已成功备份为 E:\一体柜\EMTASS2.1\Backup\SocketServerDemo\ServerDemoForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="EMTASS_ServerDemo" Source="SocketServerDemo\Program.cs" Description="文件已成功备份为 E:\一体柜\EMTASS2.1\Backup\SocketServerDemo\Program.cs">
+</Event><Event ErrorLevel="0" Project="EMTASS_ServerDemo" Source="SocketServerDemo\Properties\AssemblyInfo.cs" Description="文件已成功备份为 E:\一体柜\EMTASS2.1\Backup\SocketServerDemo\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="EMTASS_ServerDemo" Source="SocketServerDemo\Properties\Resources.Designer.cs" Description="文件已成功备份为 E:\一体柜\EMTASS2.1\Backup\SocketServerDemo\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="EMTASS_ServerDemo" Source="SocketServerDemo\Properties\Settings.Designer.cs" Description="文件已成功备份为 E:\一体柜\EMTASS2.1\Backup\SocketServerDemo\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="EMTASS_ServerDemo" Source="SocketServerDemo\EMTASS2_1.cs" Description="文件已成功备份为 E:\一体柜\EMTASS2.1\Backup\SocketServerDemo\EMTASS2_1.cs">
+</Event><Event ErrorLevel="0" Project="EMTASS_ServerDemo" Source="SocketServerDemo\ClassDiagram1.cd" Description="文件已成功备份为 E:\一体柜\EMTASS2.1\Backup\SocketServerDemo\ClassDiagram1.cd">
+</Event><Event ErrorLevel="0" Project="EMTASS_ServerDemo" Source="SocketServerDemo\ServerClassDiagram1.cd" Description="文件已成功备份为 E:\一体柜\EMTASS2.1\Backup\SocketServerDemo\ServerClassDiagram1.cd">
+</Event><Event ErrorLevel="0" Project="EMTASS_ServerDemo" Source="SocketServerDemo\Properties\Settings.settings" Description="文件已成功备份为 E:\一体柜\EMTASS2.1\Backup\SocketServerDemo\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="EMTASS_ServerDemo" Source="SocketServerDemo\ServerClassDiagram2.cd" Description="文件已成功备份为 E:\一体柜\EMTASS2.1\Backup\SocketServerDemo\ServerClassDiagram2.cd">
+</Event><Event ErrorLevel="0" Project="EMTASS_ServerDemo" Source="SocketServerDemo\Properties\Resources.resx" Description="文件已成功备份为 E:\一体柜\EMTASS2.1\Backup\SocketServerDemo\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="EMTASS_ServerDemo" Source="SocketServerDemo\ServerDemoForm.resx" Description="文件已成功备份为 E:\一体柜\EMTASS2.1\Backup\SocketServerDemo\ServerDemoForm.resx">
+</Event><Event ErrorLevel="0" Project="EMTASS_ServerDemo" Source="SocketServerDemo\EMTASS_ServerDemo.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="EMTASS_ServerDemo" Source="SocketServerDemo\EMTASS_ServerDemo.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="EMTASS2_1.sln" Description="成功转换解决方案">
+</Event><Event ErrorLevel="3" Project="" Source="EMTASS2_1.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="EMTASS_ClientDemo" Source="SocketClientDemo\EMTASS_ClientDemo.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event><Event ErrorLevel="0" Project="EMTASS_ServerDemo" Source="SocketServerDemo\EMTASS_ServerDemo.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event></UpgradeLog>

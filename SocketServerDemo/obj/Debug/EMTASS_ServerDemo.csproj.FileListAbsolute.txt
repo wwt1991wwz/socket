@@ -1,0 +1,15 @@
+E:\一体柜\EMTASS2.1\SocketServerDemo\bin\EMTASS_ServerDemo.exe
+E:\一体柜\EMTASS2.1\SocketServerDemo\bin\EMTASS_ServerDemo.pdb
+E:\一体柜\EMTASS2.1\SocketServerDemo\obj\Debug\ResolveAssemblyReference.cache
+E:\一体柜\EMTASS2.1\SocketServerDemo\obj\Debug\EMTASS_ServerDemo.Properties.Resources.resources
+E:\一体柜\EMTASS2.1\SocketServerDemo\obj\Debug\EMTASS_ServerDemo.SocketServerDemo.resources
+E:\一体柜\EMTASS2.1\SocketServerDemo\obj\Debug\EMTASS_ServerDemo.csproj.GenerateResource.Cache
+E:\一体柜\EMTASS2.1\SocketServerDemo\obj\Debug\EMTASS_ServerDemo.exe
+E:\一体柜\EMTASS2.1\SocketServerDemo\obj\Debug\EMTASS_ServerDemo.pdb
+C:\Users\jf\Desktop\EMTASS2.1\SocketServerDemo\obj\Debug\EMTASS_ServerDemo.exe
+C:\Users\jf\Desktop\EMTASS2.1\SocketServerDemo\obj\Debug\EMTASS_ServerDemo.pdb
+C:\Users\jf\Desktop\EMTASS2.1\SocketServerDemo\bin\EMTASS_ServerDemo.exe
+C:\Users\jf\Desktop\EMTASS2.1\SocketServerDemo\bin\EMTASS_ServerDemo.pdb
+C:\Users\jf\Desktop\EMTASS2.1\SocketServerDemo\obj\Debug\EMTASS_ServerDemo.Properties.Resources.resources
+C:\Users\jf\Desktop\EMTASS2.1\SocketServerDemo\obj\Debug\EMTASS_ServerDemo.SocketServerDemo.resources
+C:\Users\jf\Desktop\EMTASS2.1\SocketServerDemo\obj\Debug\EMTASS_ServerDemo.csproj.GenerateResource.Cache
